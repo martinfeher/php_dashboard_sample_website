@@ -9,6 +9,7 @@
 - webserver settings:
 - website public folder: /public
 - website public root file: /public/index.php
+- create mysql database table structure apply code in the /resources/myslq_create_tables.sql
 
 ## Description
 - PHP, MySQL appliclation to present CRUD operations, search and order data
