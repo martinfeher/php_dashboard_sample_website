@@ -5,11 +5,12 @@
 - PHP >= 7.2
 
 ## Installation
-- clone, download project
+- to clone, download project you can run the command git clone https://github.com/martinfeher/php_dashboard_sample_website.git
 - webserver settings:
 - website public folder: /public
 - website public root file: /public/index.php
-- create mysql database table structure apply code in the /resources/myslq_create_tables.sql
+- to create mysql database table structure apply code in the /resources/myslq_create_tables.sql in your local or production environment
+- to run application in the local environment, go to the /public folder and run "php -S 127.0.0.1:8000"
 
 ## Description
 - PHP, MySQL appliclation to present CRUD operations, search and order data
