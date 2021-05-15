@@ -1,0 +1,4 @@
+# Group 1
+User-agent: * Disallow:
+
+Sitemap: https://php_dashboard_sample.development.martinfeher.com/sitemap.xml

@@ -1,0 +1,94 @@
+/* General */
+
+.container {
+    font-size: 14px;
+    font-weight: 400;
+    max-width: 1170px;
+    Helvetica,Arial,sans-serif;
+}
+
+.sidenav {
+    position: absolute;
+    float: left;
+    width: 220px;
+}
+
+.content {
+    margin: 32px 0 0 220px;
+    padding: 0px 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: left;
+}
+
+div#navbarContent .navbar-brand {
+    color: #777;
+}
+
+.page_title {
+    color: #555;
+}
+
+.validation-info {
+    font-size: 0.8em;
+    color: #AAA;
+}
+
+div.error-message {
+    font-size: 0.8em !important;
+    margin-top: 2px;
+}
+
+/* End General */
+
+/* Table */
+
+table#table_person{
+    margin-top: 14px;
+}
+
+table#table_person th {
+    vertical-align: middle;
+}
+
+div.dataTables_wrapper .dataTables_paginate .paginate_button {
+    padding: 0.5em 0;
+}
+
+table.dataTable td {
+    vertical-align: middle;
+}
+
+#table_work_position_filter input {
+    color: #AAA;
+}
+
+#table_person_wrapper input {
+    min-width: 300px;
+    min-height: 31px;
+}
+
+#table_person_wrapper input::-webkit-input-placeholder {
+    font-size: 0.67em;
+    color: #999;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+#table_person_wrapper input::-moz-placeholder{
+    font-size: 0.67em;
+    color: #999;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+#table_person_wrapper input::-ms-input-placeholder {
+    font-size: 0.67em;
+    color: #AAA;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+
+/* End Table */
