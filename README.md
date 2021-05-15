@@ -11,7 +11,7 @@
 - website public root file: /public/index.php
 
 ## Description
-- PHP, MySQL appliclation to present CRUD operations
+- PHP, MySQL appliclation to present CRUD operations, search and order data
 
 - In the application on the first page /work_positions the user can display a list of the work positions and is able to create, update and delete the data. A work position has two parameters title, description. The user can search the work position by the parameters.
 
